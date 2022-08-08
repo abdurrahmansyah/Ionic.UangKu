@@ -1,0 +1,7 @@
+{
+  "name": "UangKu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
